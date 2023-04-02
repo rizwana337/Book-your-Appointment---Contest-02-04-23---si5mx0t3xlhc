@@ -57,7 +57,6 @@ return (
 }
 
 export default App;
-
 // import React, { useState } from 'react';
 // import { useDispatch, useSelector } from 'react-redux';
 // import { addAppointment } from '../action';
